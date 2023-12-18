@@ -5,6 +5,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shakhnoza-vafaeva) 
 
-# 💻 These are some of the things I am continuosly working on: SQL, Python, PowerBI, Tableau and more. 
+# 💻 
+These are some of the things I am continuosly working on: 
+- Data Cleansing, transformation and visualization using SQL, Python, PowerBI, Tableau and more. 
 
 
